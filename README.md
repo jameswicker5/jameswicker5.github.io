@@ -2,7 +2,7 @@
 
 It highlights my work in Artificial Intelligence, Machine Learning, and Data Science — including projects, competitions, and hackathons.
 
-🔗 **Live Portfolio:** [https://jameswicker5.github.io](https://jameswicker5.github.io) _(placeholder link — will update when live)_
+🔗 **Live Portfolio:** [https://jameswicker5.github.io](https://jameswicker5.github.io)
 
 ## Contents
 
